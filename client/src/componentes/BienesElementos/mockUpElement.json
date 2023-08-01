@@ -1,0 +1,21 @@
+[
+  {
+      "id": "4d98eaf5-ffe9-41c6-a6e0-264fefb82d5d",
+      "name": "primer elemento",
+      "type": "Elemento",
+      "description": "description de prueba",
+      "price": 64,
+      "date": "02-09-2021",
+      "state": "Nuevo",
+      "userId": "ae7ebd55-e37b-46ce-95d8-e25b49993770",
+      "providerId": "f9feae50-c8b3-441a-9858-434d2c4c8ace",
+      "user": {
+          "user": "user1",
+          "providers": [
+              {
+                  "name": "Provider 1"
+              }
+          ]
+      }
+  }
+]

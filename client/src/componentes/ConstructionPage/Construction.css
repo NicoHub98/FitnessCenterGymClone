@@ -1,0 +1,25 @@
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {
+  /* Establecer la imagen de fondo y que cubra toda la pantalla */
+  background-image: url('./wave-BG.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  /* Establecer el ancho y alto para ocupar toda la pantalla */
+  width: 100vw;
+  height: 100vh;
+  /* Centrar el contenido del contenedor */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+
+

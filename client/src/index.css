@@ -1,0 +1,25 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+@layer components{
+  .g-gradient-custom{
+    @apply hover:bg-gradient-to-br  hover:from-pallete-grey from-15%  hover:via-pallete-green via-55%  hover:to-pallete-yellow to-100%
+  }
+}
+@font-face {
+  font-family: Poppins;
+  src: url(./assets/fonts/Poppins-Regular.ttf);
+}
+@font-face {
+  font-family: Poppins-Medium;
+  src: url(./assets/fonts/Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: Poppins-Semibold;
+  src: url(./assets/fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: Poppins-Bold;
+  src: url(./assets/fonts/Poppins-Bold.ttf);
+}

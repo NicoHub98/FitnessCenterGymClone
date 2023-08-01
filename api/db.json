@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Pesas de 2.5 kg",
+    "type": "Pesas",
+    "description": "Ideales para ejercicios de fortalecimiento muscular.",
+    "price": 45,
+    "date": "02-09-2021",
+    "image": "",
+    "state": "Usado"
+  },
+  {
+    "id": 2,
+    "name": "Cinta de correr",
+    "type": "Cardio",
+    "description": "Máquina para correr o caminar en el lugar.",
+    "price": 1200,
+    "date": "28-03-2020",
+    "image": "",
+    "state": "Semi-nuevo"
+  },
+  {
+    "id": 3,
+    "name": "Barras de peso",
+    "type": "Pesas",
+    "description": "Utilizadas para ejercicios de levantamiento de peso.",
+    "price": 60,
+    "date": "15-07-2022",
+    "image": "",
+    "state": "Nuevo"
+  },
+  {
+    "id": 4,
+    "name": "Máquina elíptica",
+    "type": "Cardio",
+    "description": "Máquina de ejercicio que simula el movimiento de caminar o correr, pero con menos impacto en las articulaciones.",
+    "price": 1800,
+    "date": "12-11-2021",
+    "image": "",
+    "state": "En reparación"
+  },
+  {
+    "id": 5,
+    "name": "Bicicleta estática",
+    "type": "Cardio",
+    "description": "Máquina de ejercicio que simula el pedaleo de una bicicleta, proporcionando un entrenamiento cardiovascular.",
+    "price": 900,
+    "date": "19-05-2023",
+    "image": "",
+    "state": "Usado"
+  },
+  {
+    "id": 6,
+    "name": "Máquina de pesas",
+    "type": "Pesas",
+    "description": "Equipo de entrenamiento de fuerza que utiliza placas de peso para resistencia.",
+    "price": 1500,
+    "date": "10-03-2022",
+    "image": "",
+    "state": "Nuevo"
+  },
+  {
+    "id": 7,
+    "name": "Máquina de remo",
+    "type": "Cardio",
+    "description": "Máquina que simula el movimiento de remar, trabajando muchos grupos musculares al mismo tiempo.",
+    "price": 1600,
+    "date": "06-09-2020",
+    "image": "",
+    "state": "Semi-nuevo"
+  },
+  {
+    "id": 8,
+    "name": "Elíptica",
+    "type": "Cardio",
+    "description": "Máquina de ejercicio que simula el movimiento de caminar o correr, pero con menos impacto en las articulaciones.",
+    "price": 2000,
+    "date": "24-07-2023",
+    "image": "",
+    "state": "Nuevo"
+  },
+  {
+    "id": 9,
+    "name": "Escaladora",
+    "type": "Cardio",
+    "description": "Máquina de ejercicio que simula subir escaleras.",
+    "price": 1200,
+    "date": "05-12-2022",
+    "image": "",
+    "state": "Usado"
+  },
+  {
+    "id": 10,
+    "name": "Banco Olímpico",
+    "type": "Fuerza",
+    "description": "Banco especializado para ejercicios de levantamiento de peso.",
+    "price": 500,
+    "date": "18-10-2021",
+    "image": "",
+    "state": "Semi-nuevo"
+  },
+  {
+    "id": 11,
+    "name": "Máquina de Poleas",
+    "type": "Fuerza",
+    "description": "Equipo de entrenamiento de fuerza que utiliza poleas para crear resistencia.",
+    "price": 800,
+    "date": "09-06-2022",
+    "image": "",
+    "state": "Usado"
+  },
+  {
+    "id": 12,
+    "name": "Prensa de Piernas",
+    "type": "Fuerza",
+    "description": "Máquina diseñada para ejercitar los músculos de las piernas.",
+    "price": 700,
+    "date": "31-08-2020",
+    "image": "",
+    "state": "En reparación"
+  },
+  {
+    "id": 13,
+    "name": "Banco de abdominales",
+    "type": "Fuerza",
+    "description": "Banco específico para ejercicios de abdominales.",
+    "price": 200,
+    "date": "07-04-2021",
+    "image": "",
+    "state": "Nuevo"
+  },
+  {
+    "id": 14,
+    "name": "Máquina de dominadas",
+    "type": "Fuerza",
+    "description": "Equipo para realizar ejercicios de dominadas y fortalecimiento de la espalda.",
+    "price": 300,
+    "date": "13-02-2023",
+    "image": "",
+    "state": "Usado"
+  },
+  {
+    "id": 15,
+    "name": "Prensa de Pierna",
+    "type": "Fuerza",
+    "description": "Máquina diseñada para ejercitar los músculos de las piernas.",
+    "price": 600,
+    "date": "20-09-2022",
+    "image": "",
+    "state": "Semi-nuevo"
+  },
+  {
+    "id": 16,
+    "name": "Máquina de Press Banca",
+    "type": "Fuerza",
+    "description": "Equipo para realizar ejercicios de press de banca y fortalecimiento del pecho.",
+    "price": 1000,
+    "date": "11-07-2021",
+    "image": "",
+    "state": "Nuevo"
+  },
+  {
+    "id": 17,
+    "name": "Paralelas",
+    "type": "Fuerza",
+    "description": "Equipo para ejercicios de dips y fortalecimiento de los tríceps.",
+    "price": 150,
+    "date": "14-05-2020",
+    "image": "",
+    "state": "Semi-nuevo"
+  },
+  {
+    "id": 18,
+    "name": "Máquina de femorales",
+    "type": "Fuerza",
+    "description": "Equipo para ejercitar los músculos de los femorales en la parte posterior de las piernas.",
+    "price": 500,
+    "date": "13-02-2023",
+    "image": "",
+    "state": "Usado"
+  },
+  {
+    "id": 19,
+    "name": "Máquina de aductores",
+    "type": "Fuerza",
+    "description": "Equipo para ejercitar los músculos aductores de las piernas.",
+    "price": 400,
+    "date": "20-09-2022",
+    "image": "",
+    "state": "Nuevo"
+  },
+  {
+    "id": 20,
+    "name": "Poleas cruzadas",
+    "type": "Fuerza",
+    "description": "Máquina con poleas cruzadas para ejercitar varios grupos musculares.",
+    "price": 800,
+    "date": "11-07-2021",
+    "image": "",
+    "state": "En reparación"
+  },
+  {
+    "id": 21,
+    "name": "Dorsalera",
+    "type": "Fuerza",
+    "description": "Equipo para ejercitar los músculos de la espalda y los hombros.",
+    "price": 600,
+    "date": "14-05-2020",
+    "image": "",
+    "state": "Usado"
+  },
+  {
+    "id": 22,
+    "name": "Peck Deck",
+    "type": "Fuerza",
+    "description": "Máquina para ejercitar los músculos pectorales y los hombros.",
+    "price": 700,
+    "date": "20-09-2022",
+    "image": "",
+    "state": "Semi-nuevo"
+  }
+]

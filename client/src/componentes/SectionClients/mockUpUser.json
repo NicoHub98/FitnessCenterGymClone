@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ae7ebd55-e37b-46ce-95d8-e25b49993770",
+    "user": "user1",
+    "email": "user1@correo.com",
+    "plan": "premiunn",
+    "dateIn": "02-09-2021",
+    "dateOut": "02-10-2021",
+    "contact": "4245243223",
+    "rol": "Clientes",
+    "elements": [
+      {
+        "name": "primer elemento",
+        "provider": {
+          "name": "Provider 1"
+        }
+      }
+    ],
+    "groupClasses": [],
+    "providers": [
+      {
+        "name": "Provider 1",
+        "elements": [
+          {
+            "name": "primer elemento"
+          }
+        ]
+      }
+    ],
+    "expenses": []
+  }
+]

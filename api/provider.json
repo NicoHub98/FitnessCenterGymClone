@@ -1,0 +1,68 @@
+{
+  "proveedores": [
+    {
+      "provider": "Life Fitness",
+      "manager": "John Smith",
+      "contact": "+123456789",
+      "e-mail": "johnsmith@lifefitness.com",
+      "last_order": "2023-07-01",
+      "products": ["equipos de cardio", "máquinas de fuerza"]
+    },
+    {
+      "provider": "Technogym",
+      "manager": "Jane Doe",
+      "contact": "+987654321",
+      "e-mail": "janedoe@technogym.com",
+      "last_order": "2023-06-25",
+      "products": ["equipos de entrenamiento funcional", "bicicletas estáticas", "cintas de correr"]
+    },
+    {
+      "provider": "Hammer Strength",
+      "manager": "David Johnson",
+      "contact": "+234567890",
+      "e-mail": "davidjohnson@hammerstrength.com",
+      "last_order": "2023-06-30",
+      "products": ["máquinas de fuerza y resistencia"]
+    },
+    {
+      "provider": "Matrix Fitness",
+      "manager": "Sarah Wilson",
+      "contact": "+876543210",
+      "e-mail": "sarahwilson@matrixfitness.com",
+      "last_order": "2023-07-02",
+      "products": ["equipos de ejercicio", "máquinas de cardio", "máquinas de fuerza"]
+    },
+    {
+      "provider": "Johnson Health Tech",
+      "manager": "Michael Brown",
+      "contact": "+345678901",
+      "e-mail": "michaelbrown@johnsonhealthtech.com",
+      "last_order": "2023-07-05",
+      "products": ["equipos de gimnasio", "equipos de cardio", "máquinas de fuerza"]
+    },
+    {
+      "provider": "Star Trac",
+      "manager": "Emily Davis",
+      "contact": "+109876543",
+      "e-mail": "emilydavis@startrac.com",
+      "last_order": "2023-07-03",
+      "products": ["equipos de gimnasio", "máquinas de cardio", "bicicletas estáticas"]
+    },
+    {
+      "provider": "Cybex International",
+      "manager": "Andrew Wilson",
+      "contact": "+987654321",
+      "e-mail": "andrewwilson@cybexinternational.com",
+      "last_order": "2023-07-06",
+      "products": ["equipos de fitness", "máquinas de fuerza", "máquinas de cardio"]
+    },
+    {
+      "provider": "Xbody",
+      "manager": "Olivia Smith",
+      "contact": "+234567890",
+      "e-mail": "oliviasmith@xbody.com",
+      "last_order": "2023-07-04",
+      "products": ["equipos de electroestimulación muscular (EMS)"]
+    }
+  ]
+}

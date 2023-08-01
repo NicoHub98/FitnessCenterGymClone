@@ -1,0 +1,21 @@
+[
+  {
+    "id": "f9feae50-c8b3-441a-9858-434d2c4c8ace",
+    "name": "Provider 1",
+    "product": "pesas",
+    "contact": "445678",
+    "email": "mari@correo.com",
+    "description": "4 description",
+    "provider": "empire",
+    "date": "2023-12-07",
+    "userId": "ae7ebd55-e37b-46ce-95d8-e25b49993770",
+    "user": {
+      "user": "user1",
+      "elements": [
+        {
+          "name": "primer elemento"
+        }
+      ]
+    }
+  }
+]
